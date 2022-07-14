@@ -1,0 +1,39 @@
+{
+  "skills": [
+    {
+      "id": 0,
+      "skillName": "CSS",
+      "amount": "85"
+    },
+    {
+      "id": 1,
+      "skillName": "React.js",
+      "amount": "75"
+    },
+    {
+      "id": 2,
+      "skillName": "Photoshop",
+      "amount": "70"
+    },
+    { "id": 3, 
+      "skillName": "Javascript", 
+      "amount": "65" },
+    {
+      "id": 4,
+      "skillName": "Git",
+      "amount": "60"
+    },
+    {
+      "id": 5,
+      "skillName": "Node.js",
+      "amount": "55"
+    },
+    { "id": 6, "skillName": "Wordpress", "amount": "50" },
+    { "id": 7, "skillName": "SEO", "amount": "40" },
+    {
+      "id": 8,
+      "skillName": "Agile",
+      "amount": "25"
+    }
+  ]
+}
