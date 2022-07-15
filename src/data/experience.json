@@ -3,15 +3,15 @@
     {
       "id": 0,
       "link": "https://www.8secondz.com/",
-      "company": "8secondz",
-      "title": "Creative Lead - Web & App Teams",
-      "dateFrom": "June 2020",
-      "dateTo": "July 2021",
+      "company": "Bionluk",
+      "title": "Freelance Web Developer",
+      "dateFrom": "Feb 2019",
+      "dateTo": "Current",
       "info": [
-        "Responsible for web team front-end development and design",
-        "Led in app UI/UX & company wide creative media content"
+        "Animation creation and design from scratch.",
+        "Web design, marketing, media and customer engagement."
       ],
-      "stack": ["Vue.js", "Nuxt.js", "Node.js", "AWS"],
+      "stack": ["Wordpress", "Adobe Products", "Figma"],
       "logoheight": 80,
       "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)",
       "colourSecondary": "linear-gradient(to bottom, #f4592b, #f28d25)"
@@ -19,15 +19,15 @@
     {
       "id": 1,
       "link": "https://www.psykinetic.com",
-      "company": "Psykinetic",
-      "title": "Immersive Tech & Web Developer",
-      "dateFrom": "August 2020",
-      "dateTo": "Current",
+      "company": "Mikro&Strategy",
+      "title": "Frontend Web Developer",
+      "dateFrom": "Sep 2019",
+      "dateTo": "Jul 2022",
       "info": [
-        "Developing VR application with UE4 and C++ for Oculus Quest",
-        "Web design & development of web platform using wix"
+        "Led in app UI/UX & company wide creative media content",
+        "Responsible for web team front-end development and design"
       ],
-      "stack": ["C++", "UE4", "VR", "Web Design"],
+      "stack": ["Bootstrap", "CSS3", "HTML5", "Figma"],
       "logowidth": 80,
       "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
       "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)"
@@ -35,15 +35,15 @@
     {
       "id": 2,
       "link": "https://www.cactuscan.com",
-      "company": "CactusCan",
-      "title": "Creative Lead",
-      "dateFrom": "2016",
+      "company": "BNY",
+      "title": "Frontend Web Developer",
+      "dateFrom": "Jul 2022",
       "dateTo": "Current",
       "info": [
-        "Co-founding CactusCan in 2015 has led to many exciting projects with incredible customers.",
-        "Web design, marketing, media and customer engagement."
+        "Javascript development with responsive interfaces.",
+        "Javascript, React.js."
       ],
-      "stack": ["React", "Marketing", "Design", "UI/UX"],
+      "stack": ["React", "JavaScript", "Git", "Agile"],
       "logowidth": 80,
       "colourPrimary": "linear-gradient(to bottom, #39b175, #0be779)",
       "colourSecondary": "linear-gradient(to bottom, #39b175, #0be779)"
