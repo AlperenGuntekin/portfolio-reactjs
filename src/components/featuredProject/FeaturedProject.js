@@ -1,7 +1,7 @@
 import React from 'react'
 import './FeaturedProject.css'
 
-const FeaturedProject = ({ name, link, description, colour, languages }) => {
+const FeaturedProject = ({ name, link, description, company, colour, languages }) => {
   return (
     <a
       className="featured-project-link"
@@ -27,6 +27,7 @@ const FeaturedProject = ({ name, link, description, colour, languages }) => {
             />
           </div>
           <p>{description}</p>
+          <p>Company: {company}</p>
           <div className="project-info">
             <div className="project-info-left">
               {languages.map((language) => (

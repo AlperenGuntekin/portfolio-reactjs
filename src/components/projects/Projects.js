@@ -44,7 +44,7 @@ const client = new ApolloClient({
 })
 
 const queryInfo = {
-  owner: 'jigalin',
+  owner: 'alperen',
   repositories: [
     'portfolio-landing-page',
     'react-pokedex',
@@ -56,6 +56,7 @@ const query = gql`
   fragment repoProperties on Repository {
     name 
     description
+    company
     url
     id
     diskUsage
@@ -102,7 +103,7 @@ const Projects = () => {
     }
   }
 
-  if (loadProjectsError === false) {
+  if (loadProjectsError === true) {
     return (
       <Section title="Projects">
         <div className="projects-content">
@@ -110,11 +111,12 @@ const Projects = () => {
             {featured_projects.map((featuredProject) => {
               return (
                 <li key={`featured-project-${featuredProject.id}`}>
-                  <Fade bottom duration={1000} distance="20px">
+                  <Fade bottom duration={1000} distance="10px">
                     <FeaturedProject
                       name={featuredProject.name}
                       link={featuredProject.link}
                       description={featuredProject.description}
+                      company={featuredProject.company}
                       colour={featuredProject.colour}
                       languages={featuredProject.languages}
                     />
@@ -140,7 +142,7 @@ const Projects = () => {
             <div className="more-projects-wrapper">
               <a
                 className="project-link"
-                href={'https://github.com/jigalin'}
+                href={'https://github.com/AlperenGuntekin'}
                 target="_blank"
                 rel="noopener noreferrer"
               >

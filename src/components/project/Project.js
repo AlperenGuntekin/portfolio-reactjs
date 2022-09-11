@@ -37,6 +37,7 @@ const Project = ({ project, type }) => {
                 <p>Will add arrow icon here</p>
               </div>
             </div> */}
+             
             <div className="project-info">
               <div className="project-info-left">
                 {project.languages.nodes.map((language) => (
