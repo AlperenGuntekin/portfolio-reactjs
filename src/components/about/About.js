@@ -55,7 +55,7 @@ const About = () => {
               <p>.</p>
             </div>
             <p>
-              Since 2019 - I've spent my time seeking and learning new
+              Since 2020 - I've spent my time seeking and learning new
               technologies and forms of digital expression. This has led to me
               working on some amazing world-class{' '}
               <Link

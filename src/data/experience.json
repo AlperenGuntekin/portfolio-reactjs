@@ -2,48 +2,31 @@
   "experience": [
     {
       "id": 0,
-      "link": "https://bionluk.com/alperenguntekin",
-      "company": "Bionluk",
-      "title": "Freelance Web Developer",
-      "dateFrom": "Feb 2019",
-      "dateTo": "Current",
+      "link": "https://www.venusajans.com",
+      "company": "Venus Ajans",
+      "title": "Frontend Developer",
+      "dateFrom": "Sep 2020",
+      "dateTo": "Jul 2021",
       "info": [
-        "Animation creation and design from scratch.",
-        "Web design, marketing, media and customer engagement."
+        "Developed frontend designs in accordance with the requirements of various brands, showcasing adaptability and attention to detail."
       ],
-      "stack": ["Wordpress", "Adobe Products", "Figma"],
+      "stack": ["Bootstrap", "HTML5", "CSS3", "Wordpress"],
       "logoheight": 80,
-      "colourPrimary": "linear-gradient(to bottom, #db2e88, #ffffff)",
-      "colourSecondary": "linear-gradient(to bottom, #ffffff, #db2e88)"
-    },
-    {
-      "id": 1,
-      "link": "https://oguzbenlioglu.com",
-      "company": "Mikro&Strategy",
-      "title": "Frontend Web Developer",
-      "dateFrom": "Sep 2019",
-      "dateTo": "Jul 2022",
-      "info": [
-        "Led in app UI/UX & company wide creative media content",
-        "Responsible for web team front-end development and design"
-      ],
-      "stack": ["Bootstrap", "CSS3", "HTML5", "Figma"],
-      "logowidth": 80,
-      "colourPrimary": "linear-gradient(to bottom, #524949, #ffffff)",
-      "colourSecondary": "linear-gradient(to bottom, #ffffff, #524949)"
+      "colourPrimary": "linear-gradient(to bottom, #019fe2, #ffffff)",
+      "colourSecondary": "linear-gradient(to bottom, #ffffff, #019fe2)"
     },
     {
       "id": 2,
       "link": "https://www.beeandyou.com",
       "company": "BNY",
-      "title": "Frontend Web Developer",
-      "dateFrom": "Jul 2022",
+      "title": "Frontend Developer",
+      "dateFrom": "Jul 2021",
       "dateTo": "Sep 2022",
       "info": [
         "Javascript development with responsive interfaces.",
         "Javascript, React.js."
       ],
-      "stack": ["React", "JavaScript", "Git", "Agile"],
+      "stack": ["Vue.js", "TypeScript", "Vite", "REST APIs"],
       "logowidth": 80,
       "colourPrimary": "linear-gradient(to bottom, #000000, #ede02b)",
       "colourSecondary": "linear-gradient(to bottom, #ede02b, #000000)"
@@ -52,17 +35,33 @@
       "id": 3,
       "link": "https://brands-a.com",
       "company": "Brands A",
-      "title": "Frontend Web Developer",
+      "title": "Frontend Developer",
       "dateFrom": "Sep 2022",
+      "dateTo": "Apr 2023",
+      "info": [
+        "Logistics software and interface studies.",
+        "TypeScript, Progressive Web Apps."
+      ],
+      "stack": ["GraphQL", "JavaScript", "Jest", "React.js", "jQuery"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #2b287d, #a87f2d)",
+      "colourSecondary": "linear-gradient(to bottom, #a87f2d, #2b287d)"
+    },
+    {
+      "id": 4,
+      "link": "https://path.com.tr",
+      "company": "PATH",
+      "title": "Frontend Developer",
+      "dateFrom": "Apr 2023",
       "dateTo": "Current",
       "info": [
         "Logistics software and interface studies.",
         "TypeScript, Progressive Web Apps."
       ],
-      "stack": ["React", "TypeScript", "Progressive Web Apps."],
+      "stack": ["Next.js", "Shopify", "Akinon", "Tailwind CSS"],
       "logowidth": 80,
-      "colourPrimary": "linear-gradient(to bottom, #2b287d, #a87f2d)",
-      "colourSecondary": "linear-gradient(to bottom, #a87f2d, #2b287d)"
+      "colourPrimary": "linear-gradient(to bottom, #191919, #ffffff)",
+      "colourSecondary": "linear-gradient(to bottom, #ffffff, #191919)"
     }
   ]
 }

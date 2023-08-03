@@ -107,7 +107,7 @@ const ContactForm = () => {
       <form
         className="contact-form"
         onSubmit={submitForm}
-        action="https://formspree.io/mvolplar"
+        action="mailto:alperenguntekin@hotmail.com"
         method="POST"
       >
         <TextField
