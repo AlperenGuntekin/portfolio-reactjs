@@ -6,7 +6,7 @@
       "link": "https://github.com/AlperenGuntekin/hangi-easy-fishoil",
       "description": "I have prepared a test application using React and JavaScript, where parents can learn which EasyFishoil product to buy for their children.",
       "company": "BNY Export-Import GmbH",
-      "colour": "linear-gradient(to top, rgb(227, 127, 34),rgb(227, 127, 34))",
+      "colour": "linear-gradient(to top, rgb(57, 177, 117),rgb(255, 255, 255))",
       "languages": [
         { "name": "React.js", "color": "rgb(100, 219, 255)" },
         { "name": "Axios", "color": "rgb(160, 48, 230)" }

@@ -27,7 +27,6 @@ const FeaturedProject = ({ name, link, description, company, colour, languages }
             />
           </div>
           <p>{description}</p>
-          <p>Company: {company}</p>
           <div className="project-info">
             <div className="project-info-left">
               {languages.map((language) => (

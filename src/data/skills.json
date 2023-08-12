@@ -1,50 +1,51 @@
 {
   "skills": [
     {
-      "id": 4,
-      "skillName": "Tailwind",
-      "amount": "60"
-    },
-    {
-      "id": 2,
+      "id": 0,
       "skillName": "React.js",
       "amount": "75"
     },
     {
-      "id": 3,
+      "id": 1,
       "skillName": "Next.js",
       "amount": "70"
     },
-    { "id": 0, 
-      "skillName": "Javascript", 
-      "amount": "80" },
     {
-      "id": 1,
+      "id": 2,
+      "skillName": "Tailwind",
+      "amount": "60"
+    },
+    { "id": 3, 
+      "skillName": "Javascript", 
+      "amount": "80" 
+    },
+    {
+      "id": 4,
       "skillName": "Bootstrap",
       "amount": "80"
     },
     {
-      "id": 6,
+      "id": 5,
       "skillName": "GraphQL",
       "amount": "55"
     },
     { 
-      "id": 7, 
+      "id": 6, 
       "skillName": "Vue.js", 
       "amount": "55" 
     },
     { 
-      "id": 5, 
+      "id": 7, 
       "skillName": "TypeScript", 
       "amount": "60" 
     },
     {
-      "id": 9,
+      "id": 8,
       "skillName": "Jest",
       "amount": "35"
     },
     {
-      "id": 8,
+      "id": 9,
       "skillName": "jQuery",
       "amount": "55"
     }
