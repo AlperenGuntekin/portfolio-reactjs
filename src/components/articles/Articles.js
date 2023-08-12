@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from 'react'
-import './Projects.css'
+import './Articles.css'
 import { Fade } from 'react-reveal'
 import ApolloClient, { gql } from 'apollo-boost'
 import Button from '@material-ui/core/Button'
 import { makeStyles } from '@material-ui/core/styles'
-import { featured_projects } from '../../data/featured_projects.json'
+import { featured_articles } from '../../data/featured_articles.json'
 import Project from '../project/Project'
 import Section from '../section/Section'
 import FeaturedProject from '../featuredProject/FeaturedProject'
@@ -56,7 +56,6 @@ const query = gql`
   fragment repoProperties on Repository {
     name 
     description
-    company
     url
     id
     diskUsage
@@ -105,10 +104,10 @@ const Projects = () => {
 
   if (loadProjectsError === true) {
     return (
-      <Section title="Personal Projects">
+      <Section title="Articles">
         <div className="projects-content">
           <ul className="projects-list">
-            {featured_projects.map((featuredProject) => {
+            {featured_articles.map((featuredProject) => {
               return (
                 <li key={`featured-project-${featuredProject.id}`}>
                   <Fade bottom duration={1000} distance="10px">
@@ -116,7 +115,6 @@ const Projects = () => {
                       name={featuredProject.name}
                       link={featuredProject.link}
                       description={featuredProject.description}
-                      company={featuredProject.company}
                       colour={featuredProject.colour}
                       languages={featuredProject.languages}
                     />

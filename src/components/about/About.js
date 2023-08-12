@@ -29,7 +29,7 @@ const About = () => {
               <span role="img" aria-label="lightning">
                 ⚡
               </span>{' '}
-              You can find me working with React, JavaScript, CSS, Node.
+              You can find me working with React.js, JavaScript, Tailwind, GraphQL.
             </p>
             <div className="typewriter">
               <p className="typewriter-start">
@@ -55,7 +55,7 @@ const About = () => {
               <p>.</p>
             </div>
             <p>
-              Since 2020 - I've spent my time seeking and learning new
+              Since 2019 - I've spent my time seeking and learning new
               technologies and forms of digital expression. This has led to me
               working on some amazing world-class{' '}
               <Link

@@ -1,6 +1,51 @@
 {
   "experience": [
     {
+      "id": 3,
+      "link": "https://path.com.tr",
+      "company": "PATH",
+      "title": "Frontend Developer",
+      "dateFrom": "Apr 2023",
+      "dateTo": "Current",
+      "info": [
+        "Collaborated with a large and diverse team, seizing the opportunity to work on projects that utilized cutting-edge technologies, and focusing on frontend development using Agile methodologies in the Akinon and Shopify platforms."
+      ],
+      "stack": ["Next.js", "Shopify", "Akinon", "Tailwind CSS"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #191919, #ffffff)",
+      "colourSecondary": "linear-gradient(to bottom, #ffffff, #191919)"
+    },
+    {
+      "id": 2,
+      "link": "https://brands-a.com",
+      "company": "Brands A",
+      "title": "Frontend Developer",
+      "dateFrom": "Sep 2022",
+      "dateTo": "Apr 2023",
+      "info": [
+        "Seized a remarkable opportunity to work exclusively on a single product, enabling me to delve deep into intricate and challenging development tasks, while fostering a strong focus on quality and innovation."
+      ],
+      "stack": ["GraphQL", "JavaScript", "Jest", "React.js", "jQuery"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #2b287d, #a87f2d)",
+      "colourSecondary": "linear-gradient(to bottom, #a87f2d, #2b287d)"
+    },
+    {
+      "id": 1,
+      "link": "https://www.beeandyou.com",
+      "company": "BNY",
+      "title": "Frontend Developer",
+      "dateFrom": "Jul 2021",
+      "dateTo": "Sep 2022",
+      "info": [
+        "Specialized in TypeScript and React.js during my tenure, acquiring in-depth knowledge and honing my skills in these technologies to create robust and efficient web applications."
+      ],
+      "stack": ["Vue.js", "TypeScript", "Vite", "REST APIs"],
+      "logowidth": 80,
+      "colourPrimary": "linear-gradient(to bottom, #000000, #ede02b)",
+      "colourSecondary": "linear-gradient(to bottom, #ede02b, #000000)"
+    },
+    {
       "id": 0,
       "link": "https://www.venusajans.com",
       "company": "Venus Ajans",
@@ -14,54 +59,6 @@
       "logoheight": 80,
       "colourPrimary": "linear-gradient(to bottom, #019fe2, #ffffff)",
       "colourSecondary": "linear-gradient(to bottom, #ffffff, #019fe2)"
-    },
-    {
-      "id": 2,
-      "link": "https://www.beeandyou.com",
-      "company": "BNY",
-      "title": "Frontend Developer",
-      "dateFrom": "Jul 2021",
-      "dateTo": "Sep 2022",
-      "info": [
-        "Javascript development with responsive interfaces.",
-        "Javascript, React.js."
-      ],
-      "stack": ["Vue.js", "TypeScript", "Vite", "REST APIs"],
-      "logowidth": 80,
-      "colourPrimary": "linear-gradient(to bottom, #000000, #ede02b)",
-      "colourSecondary": "linear-gradient(to bottom, #ede02b, #000000)"
-    },
-    {
-      "id": 3,
-      "link": "https://brands-a.com",
-      "company": "Brands A",
-      "title": "Frontend Developer",
-      "dateFrom": "Sep 2022",
-      "dateTo": "Apr 2023",
-      "info": [
-        "Logistics software and interface studies.",
-        "TypeScript, Progressive Web Apps."
-      ],
-      "stack": ["GraphQL", "JavaScript", "Jest", "React.js", "jQuery"],
-      "logowidth": 80,
-      "colourPrimary": "linear-gradient(to bottom, #2b287d, #a87f2d)",
-      "colourSecondary": "linear-gradient(to bottom, #a87f2d, #2b287d)"
-    },
-    {
-      "id": 4,
-      "link": "https://path.com.tr",
-      "company": "PATH",
-      "title": "Frontend Developer",
-      "dateFrom": "Apr 2023",
-      "dateTo": "Current",
-      "info": [
-        "Logistics software and interface studies.",
-        "TypeScript, Progressive Web Apps."
-      ],
-      "stack": ["Next.js", "Shopify", "Akinon", "Tailwind CSS"],
-      "logowidth": 80,
-      "colourPrimary": "linear-gradient(to bottom, #191919, #ffffff)",
-      "colourSecondary": "linear-gradient(to bottom, #ffffff, #191919)"
     }
   ]
 }

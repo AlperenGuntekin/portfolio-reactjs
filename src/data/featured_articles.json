@@ -1,0 +1,25 @@
+{
+  "featured_articles": [
+    {
+      "id": 0,
+      "name": "Dergi Park",
+      "link": "https://dergipark.org.tr/tr/pub/ejosat/issue/74142/1215690",
+      "description": "An academic article about the mentor mentee program.",
+      "colour": "linear-gradient(to top, rgb(57, 177, 117),rgb(255, 255, 255))",
+      "languages": [
+        { "name": "Mentor&Mentee Program", "color": "rgb(255, 255, 255)" }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Medium",
+      "link": "https://medium.com/@alperenguntekin",
+      "description": "An explanation of JavaScript and TypeScript-based languages at a beginner to expert level.",
+      "colour": "linear-gradient(to top, rgb(57, 177, 117),rgb(255, 255, 255))",
+      "languages": [
+        { "name": "JavaScript", "color": "rgb(255, 255, 255)" },
+        { "name": "TypeScript", "color": "rgb(255, 255, 255)" }
+      ]
+    }
+  ]
+}
